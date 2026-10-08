@@ -8,4 +8,7 @@ int main(){
     std::string nome = "necr0";
 
     std::cout <<  numero << " " << decimal << " " << verdadeiro << " "<< nome << " "<< "\n";
+
+    numero = -7.9;
+    std::cout << numero << "\n";
 }
